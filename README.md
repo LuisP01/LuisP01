@@ -55,6 +55,19 @@
 
 <br>
 
+- **Frameworks**:
+<p align="left"> 
+&emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>   
+</p>
+
+
 - **Cloud Hosting**:
 
 
