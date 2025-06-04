@@ -16,11 +16,18 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+💡 Passionate about backend development with hands-on experience in Node.js, Java, C#, and cloud services like AWS (S3, EC2).
+
+🔁 Specialized in logic migration between technologies (e.g., Java → Node.js).
+
+🌐 Built full-stack projects using React, Angular, TypeScript, and PostgreSQL/MySQL/MongoDB.
+
+🧩 Developed systems like real-time chat apps, voting platforms, and veterinary clinic portals.
+
+🛠️ Always learning new tech—recently diving deeper into DevOps, cloud services, and performance optimization.
+
+🚀 Currently open to new Junior Developer roles or internship opportunities!
+
 
 <br><br>
 
